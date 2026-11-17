@@ -3,7 +3,6 @@
 🎓 **Je suis étudiant en BTS SIO (SLAM)** & **Développeur Junior** en entreprise.  
 💻 Je conçois des applications web et logicielles.
 
-
 🚀 Toujours prêt à relever de nouveaux défis techniques et à explorer de nouvelles architectures.
 
 ---
