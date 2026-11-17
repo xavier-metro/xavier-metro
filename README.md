@@ -21,11 +21,4 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-### 📊 Statistiques GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xavier-metro&show_icons=true&theme=tokyonight" alt="Statistiques GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavier-metro&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" height="165" />
-</p>
