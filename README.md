@@ -1,6 +1,6 @@
 # Salut tout le monde 😀👋
 
-🎓 ** Je suis étudiant en BTS SIO (SLAM)** & **Développeur Junior** en entreprise.  
+🎓 **Je suis étudiant en BTS SIO (SLAM)** & **Développeur Junior** en entreprise.  
 💻 Je conçois des applications web et logicielles 
 🚀 Toujours prêt à relever de nouveaux défis techniques et à explorer de nouvelles architectures.
 
@@ -16,6 +16,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
 
 #### Frameworks & Outils
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
